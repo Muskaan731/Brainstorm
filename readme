@@ -1,1 +1,10 @@
 MEAN stack webapp
+
+Steps:
+Make a quizapp named database and connect it to backend . 
+Run Backend : 
+            npm install
+            npm run dev
+Run Frontend :
+            npm install
+            ng s --o
